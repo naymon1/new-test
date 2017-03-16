@@ -1,9 +1,6 @@
 <?php  
 sre
-
-
-
 koria
-
 hen
+
 ?>
